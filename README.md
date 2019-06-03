@@ -5,8 +5,11 @@ some scripts used for kaggle competition
 https://www.kaggle.com/c/instant-gratification
 
 
-Includes a data exploration file
+Included files:
+data exploration
 
-one cross validation
+model selection
 
-one entry
+cross validation
+
+final predictions
